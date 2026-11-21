@@ -83,6 +83,17 @@
             //}
             #endregion
 
+            #region Q7
+
+            // 7. Print each product's name along with its position (1-based) in the list. Expected format: 1. Chai, 2. Chang, etc.
+
+            //var q7 = ListGenerators.ProductList.Select((p, index) => $"{index + 1}. {p.ProductName}");
+            //foreach (var item in q7)
+            //{
+            //    Console.WriteLine(item);
+            //}
+            #endregion
+
 
 
 
