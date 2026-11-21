@@ -153,6 +153,22 @@
             //}
             #endregion
 
+            #region Q12
+
+            // 12. Sort first by-word length and then by a case-insensitive sort of the words in an array.
+            // String [] Arr = {"aPPLE", "AbAcUs", "bRaNcH", "BlUeBeRrY", "ClOvEr", "cHeRrY"};
+
+            //string[] Arr = { "aPPLE", "AbAcUs", "bRaNcH", "BlUeBeRrY", "ClOvEr", "cHeRrY" };
+
+            //var q12 = Arr
+            //    .OrderBy(w => w.Length)
+            //    .ThenBy(w => w, StringComparer.OrdinalIgnoreCase);
+
+            //foreach (var word in q12)
+            //{
+            //    Console.WriteLine(word);
+            //}
+            #endregion
 
         }
     }
