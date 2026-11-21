@@ -137,6 +137,22 @@
             //}
             #endregion
 
+            #region Q11
+
+            // 11. Show position number alongside ProductName
+
+            //var q11 = ListGenerators.ProductList.Select((p, index) => new
+            //{
+            //    Position = index + 1,
+            //    p.ProductName
+            //});
+
+            //foreach (var item in q11)
+            //{
+            //    Console.WriteLine($"{item.Position} - {item.ProductName}");
+            //}
+            #endregion
+
 
         }
     }
