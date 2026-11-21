@@ -28,6 +28,17 @@
             //}
             #endregion
 
+            #region Q3
+
+            // 3. Sort all products by UnitPrice (ascending). Print each product's name and price.
+
+            //var q3 = ListGenerators.ProductList.OrderBy(p => p.UnitPrice);
+            //foreach (var p in q3)
+            //{
+            //    Console.WriteLine($"{p.ProductName} - {p.UnitPrice}");
+            //}
+            #endregion
+
 
 
 
