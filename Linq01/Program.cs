@@ -94,6 +94,20 @@
             //}
             #endregion
 
+            #region Q8
+
+            // 8. Sort ProductList by Category ascending, then within each category, sort by UnitPrice descending.
+
+            //var q8 = ListGenerators.ProductList
+            //    .OrderBy(p => p.Category)
+            //    .ThenByDescending(p => p.UnitPrice);
+
+            //foreach (var p in q8)
+            //{
+            //    Console.WriteLine($"{p.Category} | {p.ProductName} | {p.UnitPrice}");
+            //}
+            #endregion
+
 
 
 
