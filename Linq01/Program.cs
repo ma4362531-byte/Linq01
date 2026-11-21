@@ -17,6 +17,16 @@
 
             #endregion
 
+            #region Q2
+
+            // 2. Get a list of only the product names from ProductList. Print each name.
+
+            //var q2 = ListGenerators.ProductList.Select(p => p.ProductName).ToList();
+            //foreach (var name in q2)
+            //{
+            //    Console.WriteLine(name);
+            //}
+            #endregion
 
 
 
