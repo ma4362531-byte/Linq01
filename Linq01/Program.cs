@@ -108,6 +108,20 @@
             //}
             #endregion
 
+            #region Q9
+
+            // 9. Get all products from the "Beverages" category, sorted by UnitsInStock descending. Print name and stock.
+
+            //var q9 = ListGenerators.ProductList
+            //    .Where(p => p.Category == "Beverages")
+            //    .OrderByDescending(p => p.UnitsInStock);
+
+            //foreach (var p in q9)
+            //{
+            //    Console.WriteLine($"{p.ProductName} - {p.UnitsInStock}");
+            //}
+            #endregion
+
 
 
 
