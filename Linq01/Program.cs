@@ -170,6 +170,23 @@
             //}
             #endregion
 
+            #region Q13
+
+            // 13. Create a list of all digits in the array whose second letter is 'i' that is reversed from the order in the original array.
+
+            //string[] digits = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
+
+            //var q13 = digits
+            //    .Where(d => d.Length > 1 && d[1] == 'i')
+            //    .Reverse()
+            //    .ToList();
+
+            //foreach (var d in q13)
+            //{
+            //    Console.WriteLine(d);
+            //}
+            #endregion
+
         }
     }
 }
