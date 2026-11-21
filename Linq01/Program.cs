@@ -122,7 +122,20 @@
             //}
             #endregion
 
+            #region Q10
 
+            // 10. Using QUERY SYNTAX with a compound from clause, list all orders placed in 1997 or later showing CustomerID and OrderDate.
+
+            //var q10 = from c in ListGenerators.Customers
+            //          from o in c.Orders
+            //          where o.OrderDate.Year >= 1997
+            //          select new { c.CustomerID, o.OrderDate };
+
+            //foreach (var order in q10)
+            //{
+            //    Console.WriteLine($"CustomerID: {order.CustomerID}, OrderDate: {order.OrderDate:yyyy-MM-dd}");
+            //}
+            #endregion
 
 
         }
