@@ -62,7 +62,26 @@
             //}
             #endregion
 
+            #region Q6
 
+            // 6. Create a new anonymous type with three properties:
+            // ● Name → the product name
+            // ● Price → the unit price
+            // ● StockStatus → a string: "Available" if UnitsInStock > 0, otherwise "Out of Stock"
+            // ● Print the result.
+
+            //var q6 = ListGenerators.ProductList.Select(p => new
+            //{
+            //    Name = p.ProductName,
+            //    Price = p.UnitPrice,
+            //    StockStatus = p.UnitsInStock > 0 ? "Available" : "Out of Stock"
+            //});
+
+            //foreach (var item in q6)
+            //{
+            //    Console.WriteLine($"Name: {item.Name}, Price: {item.Price}, Status: {item.StockStatus}");
+            //}
+            #endregion
 
 
 
