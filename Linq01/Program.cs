@@ -51,6 +51,19 @@
 
             #endregion
 
+            #region Q5
+
+            // 5. Get all products that are in stock (UnitsInStock > 0) and belong to the "Condiments" category.
+
+            //var q5 = ListGenerators.ProductList.Where(p => p.UnitsInStock > 0 && p.Category == "Condiments");
+            //foreach (var p in q5)
+            //{
+            //    Console.WriteLine($"{p.ProductName} - Stock: {p.UnitsInStock}");
+            //}
+            #endregion
+
+
+
 
 
 
